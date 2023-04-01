@@ -1,5 +1,9 @@
 <textureatlas xmlns="http://www.w3.org/1999/xhtml" imagepath="boppers3.png">
-<subtexture name="bop3" x="0" y="913" width="960" height="448"></subtexture>
-<subtexture name="bop2" x="0" y="459" width="952" height="453"></subtexture>
-<subtexture name="bop1" x="0" y="0" width="946" height="458"></subtexture>
+<subtexture name="bop0000" x="0" y="913" width="960" height="448"></subtexture>
+<subtexture name="bop0001" x="0" y="913" width="960" height="448"></subtexture>
+<subtexture name="bop0002" x="0" y="459" width="952" height="453"></subtexture>
+<subtexture name="bop0003" x="0" y="459" width="952" height="453"></subtexture>
+<subtexture name="bop0004" x="0" y="0" width="946" height="458"></subtexture>
+<subtexture name="bop0005" x="0" y="0" width="946" height="458"></subtexture>
+<subtexture name="bop0006" x="0" y="0" width="946" height="458"></subtexture>
 </textureatlas>
