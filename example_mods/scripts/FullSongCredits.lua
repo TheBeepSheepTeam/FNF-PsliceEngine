@@ -279,7 +279,7 @@ local songdata = {
     'Trampoline', -- Song Name [1]
     'Isaiah Mods and CharlesCatYT', -- Composer [2]
     '5', --  Length for onscreen [3]
-    'Isaiah Mods and', -- Artist [4]
+    'Isaiah Mods and Oxyi142', -- Artist [4]
     'CharlesCatYT', -- Charter [5]
     },
 
