@@ -16,7 +16,7 @@ local songdata = {
     'CharlesCatYT', -- Composer [2]
     '5', --  Length for onscreen [3]
     'CharlesCatYT and Isaiah Mods', -- Artist [4]
-    'Aster', -- Charter [5]
+    'SauceyRed', -- Charter [5]
     },
 
     ['Crazy'] = {
@@ -47,7 +47,7 @@ local songdata = {
     'Hazardous', -- Song Name [1]
     'Vencerist', -- Composer [2]
     '5', --  Length for onscreen [3]
-    'JareDrexz and', -- Artist [4]
+    'Isaiah Mods', -- Artist [4]
     'SLB7', -- Charter [5]
     },
 
@@ -65,22 +65,22 @@ local songdata = {
         '5',
         'N/A',
         'N/A',
-    },   
-    
- ['Explanation'] = {
-    'Explanation', -- Song Name [1]
-    'N/A', -- Composer [2]
-    '5', --  Length for onscreen [3]
-    'N/A', -- Artist [4]
-    'N/A', -- Charter [5]
     },
 
     ['Extraterrestrial'] = {
         'Extraterrestrial',
-        'N/A',
+        'Maicon',
         '5',
         'N/A',
-        'N/A',
+        'SauceyRed',
+    },
+    
+    ['Explanation'] = {
+    'Explanation', -- Song Name [1]
+    'Isaiah Mods', -- Composer [2]
+    '5', --  Length for onscreen [3]
+    'N/A', -- Artist [4]
+    'N/A', -- Charter [5]
     },
 
     ['Someone Smarter'] = {
@@ -131,8 +131,8 @@ local songdata = {
     'N/A', -- Charter [5]
     },
 
-    ['Scar'] = {
-        'Scar',
+    ['Number One'] = {
+        'Number One',
         'N/A',
         '5',
         'N/A',
@@ -162,41 +162,9 @@ local songdata = {
         'N/A',
         'N/A',
     },
-        
-  ['Super'] = {
-    'Super', -- Song Name [1]
-    'N/A', -- Composer [2]
-    '5', --  Length for onscreen [3]
-    'N/A', -- Artist [4]
-    'N/A', -- Charter [5]
-    },
 
-    ['Top Ten'] = {
-        'Top Ten',
-        'N/A',
-        '5',
-        'N/A',
-        'N/A',
-    },
-
-    ['Life Hack'] = {
-        'Life Hack',
-        'N/A',
-        '5',
-        'N/A',
-        'N/A',
-    },
-    
-    ['Super'] = {
-    'Super', -- Song Name [1]
-    'N/A', -- Composer [2]
-    '5', --  Length for onscreen [3]
-    'N/A', -- Artist [4]
-    'N/A', -- Charter [5]
-    },
-
-    ['Top Ten'] = {
-        'Top Ten',
+    ['Experimental'] = {
+        'Experimental',
         'N/A',
         '5',
         'N/A',
@@ -219,8 +187,8 @@ local songdata = {
     'N/A', -- Charter [5]
     },
 
-    ['Love Interest'] = {
-        'Love Interest',
+    ['Mistress'] = {
+        'Mistress',
         'N/A',
         '5',
         'N/A',
@@ -243,28 +211,20 @@ local songdata = {
     'Maicon', -- Charter [5]
     },
 
-    ['Love Of God'] = {
-        'Love Of God',
+    ['Beasts'] = {
+        'Beasts',
         'N/A',
         '5',
         'N/A',
         'N/A',
     },
     
-    ['Fuzz'] = {
-    'Fuzz', -- Song Name [1]
+    ['Demonstration'] = {
+    'Demonstration', -- Song Name [1]
     'N/A', -- Composer [2]
     '5', --  Length for onscreen [3]
     'N/A', -- Artist [4]
     'N/A', -- Charter [5]
-    },
-
-    ['Nutty'] = {
-        'Nutty',
-        'N/A',
-        '5',
-        'N/A',
-        'N/A',
     },
 
     ['Danger'] = {
@@ -299,7 +259,7 @@ local songdata = {
     'Maicon', -- Charter [5]
     },
 
-    ['Ask'] = {
+    ['Illinois'] = {
         'Ask',
         'N/A',
         '5',
@@ -316,16 +276,16 @@ local songdata = {
     },
 
     ['Rope Struck'] = {
-        'Crazy',
-        'Maicon',
+        'Rope Struck',
+        'Vencerist',
         '5',
-        'Isaiah Mods',
-        'Maicon',
+        'Isaiah Mods and',
+        'N/A',
     },
 
     ['Popular Path'] = {
-        'Narration',
-        'N/A',
+        'Popular Path',
+        'Vencerist',
         '5',
         'Isaiah Mods and',
         'N/A',
