@@ -291,12 +291,12 @@ local songdata = {
         'N/A',
     },    
 
-    ['Cringe'] = {
-        'Cringe',
-        'N/A',
+    ['Toony'] = {
+        'Toony',
+        'TheAnimateMan',
         '5',
-        'N/A',
-        'N/A',
+        'TheAnimateMan and Isaiah Mods',
+        'TheAnimateMan',
     },
 
     ['Logical'] = {
