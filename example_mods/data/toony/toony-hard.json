@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bfried",
+		"player1": "boyfried-toony",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -3914,7 +3914,7 @@
 		"events": [],
 		"player3": "gf-none",
 		"song": "Toony",
-		"stage": "stolen",
+		"stage": "fasttoonstage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 175,
