@@ -1,0 +1,71 @@
+{
+	"songs": [
+		[
+			"Toony",
+			"fastoon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Logical",
+			"player",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	[
+			"Interesting",
+			"fact-gang",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	[
+			"Big-Caboose",
+			"pizza-guy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	[
+			"Dood",
+			"unusual-guyz",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Freeplay-Only Songs",
+	"weekName": "Freeplay Only",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
