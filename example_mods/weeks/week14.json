@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"ChiVi",
+			"chivi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rope-Struck",
+			"chivi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Popular-Path",
+			"chivi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "chivi",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Life Lessons with ChiVi",
+	"weekName": "ChiVi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
