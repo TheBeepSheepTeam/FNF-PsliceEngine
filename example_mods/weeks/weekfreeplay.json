@@ -17,9 +17,8 @@
 				113,
 				253
 			]
-		]
-	],
-	[
+		],
+		[
 			"Interesting",
 			"fact-gang",
 			[
@@ -27,9 +26,8 @@
 				113,
 				253
 			]
-		]
-	],
-	[
+		],
+		[
 			"Big-Caboose",
 			"pizza-guy",
 			[
@@ -37,9 +35,8 @@
 				113,
 				253
 			]
-		]
-	],
-	[
+		],
+		[
 			"Dood",
 			"unusual-guyz",
 			[
@@ -52,7 +49,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "hard",
+	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",

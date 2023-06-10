@@ -1,20 +1,8 @@
 {
-	"storyName": "Covers",
-	"difficulties": "hard",
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"hideStoryMode": true,
 	"songs": [
 		[
 			"Schooled",
-			"mrsmart",
+			"mr-smart",
 			[
 				146,
 				113,
@@ -31,11 +19,23 @@
 			]
 		]
 	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "funni covers"
+	"storyName": "Freeplay-Only Covers",
+	"weekName": "Freeplay Covers",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

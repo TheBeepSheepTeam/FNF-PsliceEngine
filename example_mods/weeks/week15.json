@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"ChiVi",
-			"chivi-new",
+			"Hilarious",
+			"nutshell",
 			[
 				146,
 				113,
@@ -10,8 +10,8 @@
 			]
 		],
 		[
-			"Rope-Struck",
-			"chivi-new",
+			"Nutshell",
+			"hazelnut",
 			[
 				146,
 				113,
@@ -19,8 +19,8 @@
 			]
 		],
 		[
-			"Popular-Path",
-			"chivi-new",
+			"Annoying",
+			"acorn",
 			[
 				146,
 				113,
@@ -30,15 +30,15 @@
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "chivi",
+	"weekBackground": "nutshellanimations",
 	"difficulties": "",
 	"weekCharacters": [
 		"",
 		"",
 		""
 	],
-	"storyName": "Life Lessons with ChiVi",
-	"weekName": "Meet ChiVi",
+	"storyName": "Acorn becomes Eminem's Father in Friday Night Funkin'",
+	"weekName": "Nutshell Animations",
 	"freeplayColor": [
 		146,
 		113,
